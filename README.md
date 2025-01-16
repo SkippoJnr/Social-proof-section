@@ -25,11 +25,11 @@ Users should be able to:
 
 ### Desktop view
 
-![desktop-view](https://github.com/Skippo-Jnr/social-proof-section-master/blob/b26cdde0f4efa3cd4c00bedd6669458f00a0abeb/screenshots/desktop-design.jpeg)
+![desktop-view](https://github.com/SkippoJnr/Social-proof-section/blob/5618940d4e53dbb062dee230af30955a4627a361/screenshots/desktop-design.jpeg)
 
 ### Links
 
-- Live Site URL: [Social proof section]()
+- Live Site URL: [Social proof section](https://skippojnr.github.io/Social-proof-section/)
 
 ## My process
 
